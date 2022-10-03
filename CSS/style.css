@@ -8,3 +8,11 @@ body {
     text-align: center;
     font-size: x-large;
 }
+a {
+    text-decoration: none;
+}
+.btn-dark {
+    color: #fff;
+    background-color: black;
+    border-color: #000000;
+}
