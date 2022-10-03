@@ -3,6 +3,10 @@ body {
     padding: 0%;
     font-family: sans-serif;
 }
+.container {
+    width: 70%;
+    margin: auto;
+}
 .heading {
     font-family: 'Nabla', cursive;
     text-align: center;
@@ -15,4 +19,9 @@ a {
     color: #fff;
     background-color: black;
     border-color: #000000;
+}
+.textCenter {
+    text-align: center;
+    font-size: x-large;
+    font-family: sans-serif;
 }
