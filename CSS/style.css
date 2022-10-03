@@ -39,6 +39,9 @@ th, td {
     padding: 15px 5px;
     text-align: center;
 }
+tr:hover {
+    background-color: gray;
+} 
 footer {
     text-align: center;
     font-size: larger;
