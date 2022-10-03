@@ -25,3 +25,17 @@ a {
     font-size: x-large;
     font-family: sans-serif;
 }
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-color: black;
+}
+table {
+    width: 100%;
+}
+th, td {
+    padding: 15px 5px;
+    text-align: center;
+}
