@@ -1,9 +1,8 @@
 body {
-    background-color: #282828;
-    color: white;
+    background-color: whitesmoke;
 }
 table,
 th,
 td {
-    border: 1px solid rgba(255, 255, 255, 0.62);
+    border: 1px solid rgba(0, 0, 0, 0.12);
 }
